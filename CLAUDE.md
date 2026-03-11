@@ -70,7 +70,7 @@ programi/[ABBREVIATION]/
 | `SNS` | Slovenska nacionalna stranka | MD | Scraped from sns.si |
 | `GOD` | Glas za otroke in družine | MD | Scraped from glaszaotrokeindruzine.si |
 | `MiSocialisti` | Mi, socialisti! | MD | Scraped from misocialisti.si |
-| `Vesna` | Vesna – zelena stranka | MD | **Website blocks automated access (HTTP 403)** – file contains only a note |
+| `Vesna` | Vesna – zelena stranka | — | Joint list with Levica; program covered under `Levica/program_2026.pdf` |
 
 **Defunct/no program parties** (folders removed): NPS (dormant since 2016), Solidarnost (domain parked), Sloga (unreachable)
 
@@ -113,7 +113,6 @@ programi/[ABBREVIATION]/
 
 ## Things to Watch For in Future Sessions
 
-- **Vesna program:** The website (vesna.si) has been blocking automated access. Worth retrying periodically — they are an active party and their program should exist.
 - **GS program:** Only a 2024 document was available. If Gibanje Svoboda publishes a proper 2026 election PDF, replace `programi/GS/program.md` with it.
 - **Post-election updates:** After 22.3.2026, this repo could be extended with actual results, coalition negotiations, and government formation.
 - **Polling data expires quickly** — `ankete_projekcije_2026.md` reflects state as of ~11 March 2026. Update if more recent polls are published before election day.
