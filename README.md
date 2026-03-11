@@ -14,6 +14,8 @@ Repozitorij vsebuje programske dokumente strank, njihove povzetke, ankete in tem
 | [`ankete_projekcije_2026.md`](ankete_projekcije_2026.md) | Zadnje volilne ankete (februar–marec 2026), projekcije sedežev, koalicijska aritmetika |
 | [`zenske_pravice_2026.md`](zenske_pravice_2026.md) | Stališča strank do ženskih pravic, reproduktivnih pravic in spolnega nasilja – na podlagi programov in virov civilne družbe |
 | [`sds_podpora_analiza_2026.md`](sds_podpora_analiza_2026.md) | Analiza zakaj volivci podpirajo SDS in Janšo – na podlagi anket, medijskih poročil in kampanjskih sporočil |
+| [`izvedljivost_programov_2026.md`](izvedljivost_programov_2026.md) | Analiza implementacijskih načrtov volilnih programov – mehanizmi, financiranje in usklajenost z obstoječimi omejitvami |
+| [`izhodisca_2026.md`](izhodisca_2026.md) | Referenčni podatki o stanju Slovenije 2026 (BDP, javne finance, stanovanja, zdravstvo, energetika) – osnova za oceno programov |
 
 ---
 
