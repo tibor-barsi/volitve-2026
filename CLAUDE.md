@@ -73,6 +73,7 @@ programi/[ABBREVIATION]/
 | `SNS` | Slovenska nacionalna stranka | MD | Scraped from sns.si |
 | `GOD` | Glas za otroke in družine | MD | Scraped from glaszaotrokeindruzine.si |
 | `MiSocialisti` | Mi, socialisti! | MD | Scraped from misocialisti.si |
+| `DEM` | Demokrati. Anžeta Logarja | PDF | Feb 2026; "Uspešna Slovenija 2034" |
 | `Vesna` | Vesna – zelena stranka | — | Joint list with Levica; program covered under `Levica/program_2026.pdf` |
 
 **Defunct/no program parties** (folders removed): NPS (dormant since 2016), Solidarnost (domain parked), Sloga (unreachable)

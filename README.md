@@ -65,6 +65,8 @@ volitve-2026/
     ├── MiSocialisti/                # Mi, socialisti!
     │   ├── program.md               # Zbrano s spletne strani
     │   └── povzetek.md
+    ├── DEM/                         # Demokrati. Anžeta Logarja
+    │   └── program.pdf              # "Uspešna Slovenija 2034", Feb 2026
     └── Vesna/                       # Vesna – zelena stranka (skupna lista z Levico)
         └── program.md               # Nadomestna datoteka – spletna stran nedostopna (HTTP 403)
 ```
@@ -86,6 +88,7 @@ volitve-2026/
 | `SNS` | Slovenska nacionalna stranka | MD | Zbrano s spletne strani |
 | `GOD` | Glas za otroke in družine | MD | Zbrano s spletne strani |
 | `MiSocialisti` | Mi, socialisti! | MD | Zbrano s spletne strani |
+| `DEM` | Demokrati. Anžeta Logarja | PDF | Feb 2026; "Uspešna Slovenija 2034" |
 | `Vesna` | Vesna – zelena stranka | MD (placeholder) | Skupna lista z Levico; program nedostopen (HTTP 403); vsebina pokrita pod Levica |
 
 ---
