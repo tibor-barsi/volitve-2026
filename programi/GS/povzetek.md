@@ -60,5 +60,9 @@ Gibanje Svoboda se predstavlja kot progresivna politična sila, ki zagovarja zel
 - Odgovornost do okolja in prihodnjih generacij
 
 ---
+
+**Opomba:** Gibanje Svoboda je na volilni konvenciji 14. februarja 2026 predstavilo dodatne volilne predloge, ki presegajo vsebino zgoraj povzetega spletnega programa iz leta 2024. Med ključnimi predlogi so: gradnja novega UKC, jamstvena shema za mlade kupce stanovanj, uvedba socialne kapice ter drugi ukrepi. Ti predlogi v zgornjem povzetku niso zajeti, ker temeljijo na konvencijskem gradivu in ne na dostopnem programskem dokumentu.
+
+---
 *Vir: /home/user1/data/Projects/volitve-2026/programi/GS/program.md (https://www.gibanjesvoboda.si/vrednote-in-program/stebri-programa/)*
 *Povzetek pripravljen na podlagi volilnega programa stranke.*
