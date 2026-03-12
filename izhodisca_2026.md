@@ -31,7 +31,7 @@
 ### Strukturne omejitve in izzivi
 
 - Rast BDP ostaja zmerna; leta 2025 jo je poganjala predvsem investicija v gradbeništvo, ne izvoz.
-- Slovenija je majhno, odprto gospodarstvo, izpostavljeno zewnętrznim šokom (upočasnitev EU, globalna negotovost).
+- Slovenija je majhno, odprto gospodarstvo, izpostavljeno zunanjim šokom (upočasnitev EU, globalna negotovost).
 - Demografski pritisk: staranje prebivalstva zvišuje delež neaktivnega prebivalstva in stroške socialnih transferjev.
 - Produktivnost zaostaja za povprečjem EU-15; strukturne reforme (trg dela, digitalizacija) potekajo počasi.
 - Rast plač (+6–7 %) presega rast produktivnosti – tveganje za konkurenčnost izvoza.

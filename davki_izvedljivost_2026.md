@@ -15,7 +15,7 @@
 | BDP (2026, nominalen) | 74,2 mrd EUR |
 | Skupni javnofinančni primanjkljaj 2026 (napoved) | −2,1 mrd EUR (~−2,8 % BDP) |
 | Primanjkljaj jan–feb 2026 | −116 mio EUR (v enakem obdobju 2025: +19 mio EUR) |
-| Javni dolg | ~47 mrd EUR (~63–66 % BDP) |
+| Javni dolg | ~47 mrd EUR (~66–70 % BDP) |
 | Davčni prihodki + socialni prispevki (% BDP, 2024) | **38,8 %** (2023: 36,8 %; porast med največjimi v EU) |
 | Socialni prispevki (% BDP, 2024) | **17,2 %** — med najvišjimi v EU (skupaj z Nemčijo) |
 | Davki na dohodek, premoženje itd. (% BDP, 2024) | 8,4 % — spodnja tretjina EU |
@@ -36,7 +36,7 @@
 ## 1. SD: Progresivni premoženjski davek (0,1–0,5 %)
 
 ### Predlog
-Letni davek na vrednost premoženja po stopnjah 0,1–0,5 %, s sočasno razbremenitivjo dela. Stranka trdi, da bo reforma »javnofinančno nevtralna«.
+Letni davek na vrednost premoženja po stopnjah 0,1–0,5 %, s sočasno razbremenitvijo dela. Stranka trdi, da bo reforma »javnofinančno nevtralna«.
 
 ### Fiskalna analiza
 
@@ -77,7 +77,7 @@ Letni davek na vrednost premoženja po stopnjah 0,1–0,5 %, s sočasno razbreme
 
 **Primerjave v EU:**
 - Dvig splošne dohodninske olajšave je pogosta oblika davčne razbremenitve dela (npr. Avstrija, Irska). Pogosto je protigresivna na spodnjem koncu lestvice in nima učinka za osebe, ki že ne plačujejo dohodnine.
-- Hkratni predlog za »razvojno kapico« (nižja dohodninakzahteva za visokokvalificirane delavce) bi bil selektivna olajšava za zgornji del lestvice — fiskalni izpad dodatno neocenjen.
+- Hkratni predlog za »razvojno kapico« (nižja dohodninska obremenitev za visokokvalificirane delavce) bi bil selektivna olajšava za zgornji del lestvice — fiskalni izpad dodatno neocenjen.
 
 **Sklep:** Predlog je zakonodajno preprost in v EU pogost. Ni nezdružljiv s pravom EU. Fiskalni izpad v razponu 300–450 mio EUR letno ni ocenjen v programu; v kontekstu EDP postopka pomeni potrebo po kompenzacijskih ukrepih, ki niso navedeni.
 
@@ -103,7 +103,7 @@ Letni davek na vrednost premoženja po stopnjah 0,1–0,5 %, s sočasno razbreme
 
 | Ukrep | Ocenjeni izpad |
 |---|---|
-| Dohodninskie reforme (olajšava, razširitev razredov) | −0,8 mrd EUR (lastna ocena programa) |
+| Dohodninske reforme (olajšava, razširitev razredov) | −0,8 mrd EUR (lastna ocena programa) |
 | Odprava nepremičninskega davka | −300–500 mio EUR |
 | Odprava trošarin na energente | >−600 mio EUR |
 | Znižanje DDV (stopnja ni navedena) | neocenjeno |
@@ -116,7 +116,7 @@ Letni davek na vrednost premoženja po stopnjah 0,1–0,5 %, s sočasno razbreme
 **EU Pillar 2 (minimalni davek za korporacije):**
 - Slovenija je implementirala globalni minimalni davek (15 % za multinacionalne skupine z letnim prometom > 750 mio EUR) z datumom **31. december 2023** (vir: Wikipedia/OECD Pillar 2 implementacijska tabela).
 - Predlog Resni.ca za 10 % DDPO v posebnih ekonomskih conah je **v nasprotju s Pillar 2 za podjetja, ki presegajo prag 750 mio EUR** — ta bi morala plačati »top-up tax« do 15 %. Za domača MSP in tuja podjetja pod pragom pa ni konflikta.
-- V praksi to pomeni, da bi bile SEZ cone davčno privlačne le za manjša podjetja in start-up-e, ne pa za velike multinacionalne skupnostne, ki jih program omenja kot ciljno skupino.
+- V praksi to pomeni, da bi bile SEZ cone davčno privlačne le za manjša podjetja in start-up-e, ne pa za velike multinacionalne skupine, ki jih program omenja kot ciljno skupino.
 
 **Notranja fiskalna napetost:** Program hkrati zagovarja (a) zmanjšanje javnega dolga in (b) ukrepe z netom izpadom ≥1,3 mrd EUR letno brez navedenih kompenzacij. Ti dve usmeritvi sta formalno nezdružljivi.
 
@@ -128,7 +128,7 @@ Letni davek na vrednost premoženja po stopnjah 0,1–0,5 %, s sočasno razbreme
 
 ### Predlog (program sprejet 17. 1. 2026 v Žalcu)
 - **DDV**: Enotna stopnja 12 % za vse blago in storitve (obstoječi: 22 % splošna, 9,5 % znižana). Razširitev ničelne stopnje (0 %) na hrano, zdravila, šolske knjige, otroške proizvode, javni prevoz, izvoz.
-- **DDPO**: Znižanje na 10 % v 7 letih; takojšnja 10-% stopnja za nova podjetja in podjetja s tujim kapitalom.
+- **DDPO**: Znižanje na 10 % v 7 letih; takojšna 10-% stopnja za nova podjetja in podjetja s tujim kapitalom.
 
 ### Fiskalna analiza
 
@@ -154,7 +154,7 @@ Letni davek na vrednost premoženja po stopnjah 0,1–0,5 %, s sočasno razbreme
 
 ---
 
-## 5. Pirati: Dohodninaa 1. razred na 0 %
+## 5. Pirati: Dohodnina 1. razred na 0 %
 
 ### Predlog
 Znižanje dohodnine v 1. razredu (do ~8.755 EUR letnega dohodka, stopnja trenutno 16 %) na **0 %**.
@@ -165,7 +165,7 @@ Znižanje dohodnine v 1. razredu (do ~8.755 EUR letnega dohodka, stopnja trenutn
 - Kompenzacija: ni navedena v programu.
 - Ukrep ne zahteva spremembe prava EU.
 
-**Sklep:** Zakonodajno preprost in brez konflikta z EU pravom. Fiskalniizpad je zmeren (~150–200 mio EUR/leto), a ni ocenjen v programu.
+**Sklep:** Zakonodajno preprost in brez konflikta z EU pravom. Fiskalni izpad je zmeren (~150–200 mio EUR/leto), a ni ocenjen v programu.
 
 ---
 
@@ -187,7 +187,7 @@ Splošna usmeritev k progresivnejšemu sistemu; davki na špekulativne nepremič
 | Stranka | Ključni davčni predlog | Naveden fiskalni izpad | Ocenjeni dejanski izpad | Kompenzacija | Konflikt z EU pravom |
 |---|---|---|---|---|---|
 | **SD** | Premoženjski davek 0,1–0,5 %; razbremenitev dela | Ni ocenjen | 150–400 mio EUR (odvisno od osnove in izjem) | »Nevtralna reforma« (ni kvantificirano) | Ne |
-| **NSi+SLS** | Dohodninina olajšava 8.000 → 10.500 EUR | Ni ocenjen | 300–450 mio EUR/leto | Ni navedena | Ne |
+| **NSi+SLS** | Dohodninska olajšava 8.000 → 10.500 EUR | Ni ocenjen | 300–450 mio EUR/leto | Ni navedena | Ne |
 | **Resni.ca** | Razširitev razredov, olajšava, odprava trošarin, brez nep. davka | −0,8 mrd EUR (delno) | ≥1,7 mrd EUR/leto | +0,4 mrd (nova del. mesta); prihranki brez ocene | DDPO 10 % v SEZ vs. Pillar 2 (delno) |
 | **SNS** | DDV 12 %; DDPO 10 % v 7 letih | Ni ocenjen | 2–3 mrd EUR/leto | Ni navedena | **Da — DDV direktiva** |
 | **Pirati** | Dohodnina 1. razred → 0 % | Ni ocenjen | 150–200 mio EUR/leto | Ni navedena | Ne |
@@ -209,7 +209,7 @@ Splošna usmeritev k progresivnejšemu sistemu; davki na špekulativne nepremič
 
 5. **Slovenija je v EDP postopku EU** (postopek za čezmerni primanjkljaj od 2024). To pomeni, da ne more prosto sprejemati ukrepov z neto negativnim fiskalnim učinkom brez kompenzacij, ne da bi tvegala sankcije EU.
 
-6. **Socialni prispevki (17,2 % BDP) so res med najvišjimi v EU.** Vsaka stranaka, ki predlaga razbremenitev dela, ima za to strukturno ekonomsko podlago — a mora navesti, iz česa bo financirala zdravstveno in pokojninsko blagajno.
+6. **Socialni prispevki (17,2 % BDP) so res med najvišjimi v EU.** Vsaka stranka, ki predlaga razbremenitev dela, ima za to strukturno ekonomsko podlago — a mora navesti, iz česa bo financirala zdravstveno in pokojninsko blagajno.
 
 ---
 
