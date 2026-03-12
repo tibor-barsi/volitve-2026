@@ -2,12 +2,12 @@
 
 ## Popravki in izboljšave (PRIORITETA)
 
-- [ ] **Anketni podatki — popravki** — `ankete_projekcije_2026.md`: DEM (Logar) pri Mediani v marcu piše 0,5 %, pravilno je 5,5 % (vir: Siol.net). Valicon v marcu ne navaja DEM in SD — dopolni. SD pri Mediani/Delo morda napačen (7,1 % je morda iz starejše ankete, marčevska kaže 5,6 %). Preveri vse vnose proti primarnim virom.
-- [ ] **Razvrstitev SDS** — `povzetek_volitve_2026.md`: SDS je uvrščen pod »Desnosredinska parlamentarna opozicija«, kar je zavajajoče. Spremeni v »Desna parlamentarna opozicija« ali ustreznejšo oznako.
-- [ ] **SDS stanovanjska politika** — `povzetek_volitve_2026.md`: v tabeli Stanovanja piše »Ni podrobnejših ukrepov v povzetku«, a program SDS vsebuje nasprotovanje davku na nepremičnine, zakonski rok 2 mesecev za gradbeno dovoljenje, sheme najema z odkupom. Dopolni tabelo in povzetek.
-- [ ] **GS povzetek — konvencija 2026** — `programi/GS/povzetek.md`: dodaj opombo, da je GS na konvenciji 14. 2. 2026 predstavila dodatne volilne predloge (nov UKC, jamstvena shema za mlade, socialna kapica itd.), ki presegajo spletni program.
-- [ ] **GOD program iz 2017** — `programi/GOD/program.md`: program je iz 25. 3. 2017. Preveri, ali ima GOD novejši program za 2026; če ne, dodaj vidno opozorilo o zastarelosti.
-- [ ] **Natančni viri za vse trditve** — novo pravilo: vsaka trditev v analitičnih dokumentih mora imeti natančen vir (kje v programu, kateri članek, katera anketa). Začni z `ankete_projekcije_2026.md` in `povzetek_volitve_2026.md`, nato ostale datoteke.
+- [x] **Anketni podatki — popravki** — `ankete_projekcije_2026.md`: DEM (Logar) pri Mediani v marcu piše 0,5 %, pravilno je 5,5 % (vir: Siol.net). Valicon v marcu ne navaja DEM in SD — dopolni. SD pri Mediani/Delo morda napačen (7,1 % je morda iz starejše ankete, marčevska kaže 5,6 %). Preveri vse vnose proti primarnim virom.
+- [x] **Razvrstitev SDS** — `povzetek_volitve_2026.md`: SDS je uvrščen pod »Desnosredinska parlamentarna opozicija«, kar je zavajajoče. Spremeni v »Desna parlamentarna opozicija« ali ustreznejšo oznako.
+- [x] **SDS stanovanjska politika** — `povzetek_volitve_2026.md`: v tabeli Stanovanja piše »Ni podrobnejših ukrepov v povzetku«, a program SDS vsebuje nasprotovanje davku na nepremičnine, zakonski rok 2 mesecev za gradbeno dovoljenje, sheme najema z odkupom. Dopolni tabelo in povzetek.
+- [x] **GS povzetek — konvencija 2026** — `programi/GS/povzetek.md`: dodaj opombo, da je GS na konvenciji 14. 2. 2026 predstavila dodatne volilne predloge (nov UKC, jamstvena shema za mlade, socialna kapica itd.), ki presegajo spletni program.
+- [x] **GOD program iz 2017** — `programi/GOD/program.md`: program je iz 25. 3. 2017. Preveri, ali ima GOD novejši program za 2026; če ne, dodaj vidno opozorilo o zastarelosti.
+- [x] **Natančni viri za vse trditve** — novo pravilo: vsaka trditev v analitičnih dokumentih mora imeti natančen vir (kje v programu, kateri članek, katera anketa). Začni z `ankete_projekcije_2026.md` in `povzetek_volitve_2026.md`, nato ostale datoteke.
 
 ## Visoka vrednost / edinstvene analize
 
