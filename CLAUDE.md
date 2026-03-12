@@ -37,6 +37,9 @@ programi/[ABBREVIATION]/
 - `ankete_projekcije_2026.md` — polls and seat projections
 - `zenske_pravice_2026.md` — women's rights / reproductive rights / sexual violence by party
 - `sds_podpora_analiza_2026.md` — why voters support SDS/Janša
+- `izvedljivost_programov_2026.md` — feasibility analysis of party programs (mechanisms, financing, institutional constraints)
+- `davki_izvedljivost_2026.md` — detailed analysis of each party's tax proposals (fiscal feasibility, revenue estimates)
+- `izhodisca_2026.md` — reference data on Slovenia's state in 2026 (economy, housing, healthcare, energy) — factual baseline for evaluating programs
 
 **povzetek.md format:**
 ```markdown
@@ -96,7 +99,10 @@ programi/[ABBREVIATION]/
 4. Write `povzetek.md` using **Sonnet/Opus agent** — read the program, write 400-600 word summary in Slovenian
 5. Update `povzetek_volitve_2026.md` — add party to appropriate group and all thematic tables
 6. Update `zenske_pravice_2026.md` — search program for relevant terms, add party section and table row
-7. Commit and push
+7. Update `izvedljivost_programov_2026.md` — add party rows to relevant thematic tables (housing, healthcare, energy, taxes, etc.)
+8. Update `davki_izvedljivost_2026.md` — if party has notable tax proposals, add a section with fiscal analysis
+9. Update README.md Stranke table — add new party row
+10. Commit and push
 
 ---
 

@@ -15,6 +15,7 @@ Repozitorij vsebuje programske dokumente strank, njihove povzetke, ankete in tem
 | [`zenske_pravice_2026.md`](zenske_pravice_2026.md) | Stališča strank do ženskih pravic, reproduktivnih pravic in spolnega nasilja – na podlagi programov in virov civilne družbe |
 | [`sds_podpora_analiza_2026.md`](sds_podpora_analiza_2026.md) | Analiza zakaj volivci podpirajo SDS in Janšo – na podlagi anket, medijskih poročil in kampanjskih sporočil |
 | [`izvedljivost_programov_2026.md`](izvedljivost_programov_2026.md) | Analiza implementacijskih načrtov volilnih programov – mehanizmi, financiranje in usklajenost z obstoječimi omejitvami |
+| [`davki_izvedljivost_2026.md`](davki_izvedljivost_2026.md) | Podrobna analiza davčnih obljub strank – fiskalna izvedljivost, primerjave in ocene prihodkov |
 | [`izhodisca_2026.md`](izhodisca_2026.md) | Referenčni podatki o stanju Slovenije 2026 (BDP, javne finance, stanovanja, zdravstvo, energetika) – osnova za oceno programov |
 
 ---
@@ -27,6 +28,9 @@ volitve-2026/
 ├── ankete_projekcije_2026.md        # Ankete in projekcije sedežev
 ├── zenske_pravice_2026.md           # Tematska analiza: ženske pravice
 ├── sds_podpora_analiza_2026.md      # Tematska analiza: podpora SDS
+├── izvedljivost_programov_2026.md   # Analiza implementacijskih načrtov
+├── davki_izvedljivost_2026.md       # Analiza davčnih obljub
+├── izhodisca_2026.md                # Referenčni podatki o stanju Slovenije
 └── programi/
     ├── GS/                          # Gibanje Svoboda
     │   ├── program.md               # Program stranke (spletna stran, 2024)
@@ -61,8 +65,8 @@ volitve-2026/
     ├── MiSocialisti/                # Mi, socialisti!
     │   ├── program.md               # Zbrano s spletne strani
     │   └── povzetek.md
-    └── Vesna/                       # Vesna – zelena stranka
-        └── program.md               # Spletna stran nedostopna (HTTP 403)
+    └── Vesna/                       # Vesna – zelena stranka (skupna lista z Levico)
+        └── program.md               # Nadomestna datoteka – spletna stran nedostopna (HTTP 403)
 ```
 
 ---
@@ -82,7 +86,7 @@ volitve-2026/
 | `SNS` | Slovenska nacionalna stranka | MD | Zbrano s spletne strani |
 | `GOD` | Glas za otroke in družine | MD | Zbrano s spletne strani |
 | `MiSocialisti` | Mi, socialisti! | MD | Zbrano s spletne strani |
-| `Vesna` | Vesna – zelena stranka | MD | Program nedostopen (HTTP 403) |
+| `Vesna` | Vesna – zelena stranka | MD (placeholder) | Skupna lista z Levico; program nedostopen (HTTP 403); vsebina pokrita pod Levica |
 
 ---
 
