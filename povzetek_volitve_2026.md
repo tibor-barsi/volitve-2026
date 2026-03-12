@@ -3,6 +3,8 @@
 *Parlamentarne volitve, 22. marec 2026*
 
 > Ta dokument vsebuje kratke povzetke volilnih programov strank, ki kandidirajo na parlamentarnih volitvah 2026. Povzetki temeljijo izključno na vsebini uradnih programskih dokumentov posameznih strank. Dokument ne izraža nobenih vrednostnih sodb ali priporočil.
+>
+> **Metodologija:** Povzetki so pripravljeni na podlagi programskih dokumentov strank, pridobljenih marca 2026 — bodisi kot PDF dokumenti z uradnih spletnih strani strank bodisi kot besedila, zajeta neposredno s spletnih strani (kjer PDF ni bil na voljo). Vsak razdelek navaja natančen vir. Tematske primerjalne tabele v nadaljevanju sintetizirajo podatke iz istih virov.
 
 ---
 
@@ -20,6 +22,8 @@ Na volitvah 22. marca 2026 nastopa širok spekter strank, od leve do desne in od
 
 #### Gibanje Svoboda (GS)
 
+*Vir: spletni program GS, 2024 (programi/GS/program.md; https://www.gibanjesvoboda.si/vrednote-in-program/stebri-programa/). Opomba: GS do marca 2026 ni objavilo posebnega volilnega programa za leto 2026; povzetek temelji na programu iz leta 2024.*
+
 Gibanje Svoboda se predstavlja kot progresivna politična sila, ki zagovarja zeleni prehod, demokratično vključenost, solidarnost in odgovoren razvoj. Program je organiziran v šest stebrov: skupnosti in demokracija, medgeneracijska solidarnost, izobraževanje, zelena politika, zdravstvo ter energetika.
 
 **Ključne programske točke:**
@@ -33,6 +37,8 @@ Gibanje Svoboda se predstavlja kot progresivna politična sila, ki zagovarja zel
 ---
 
 #### Socialni demokrati (SD)
+
+*Vir: volilni program SD, februar 2026 (programi/SD/program.pdf).*
 
 Socialni demokrati svojo programsko vizijo strnjajo v geslo »Dogovor za mir, razvoj in blaginjo« in se predstavljajo kot stranka socialnega dialoga, ki si prizadeva za pravičen zeleni prehod, solidarno socialno varnost in inovativno gospodarstvo v korist vseh.
 
@@ -48,6 +54,8 @@ Socialni demokrati svojo programsko vizijo strnjajo v geslo »Dogovor za mir, ra
 
 #### Levica in Vesna (zeleno-leva koalicija)
 
+*Vir: skupni volilni program Levica–Vesna, februar 2026 (programi/Levica/program_2026.pdf). Program stranke Vesna na vesna.si ni bil dostopen (HTTP 403).*
+
 Zeleno-leva koalicija Levica in Vesna se predstavlja kot politična sila, ki združuje boj za socialno pravičnost z okoljsko odgovornostjo. Program izhaja iz prepričanja, da sta socialna in okoljska pravičnost neločljivi, in zavrača »kozmetične popravke« obstoječega sistema v korist strukturnih sprememb.
 
 **Ključne programske točke:**
@@ -61,6 +69,8 @@ Zeleno-leva koalicija Levica in Vesna se predstavlja kot politična sila, ki zdr
 ---
 
 #### Mi socialisti! (MiS)
+
+*Vir: volilni program Mi socialisti!, 1. marec 2026 (programi/MiSocialisti/program.md; https://www.misocialisti.si/program-mi-socialisti-2026/).*
 
 Mi socialisti! se opredeljujejo kot »tretji, socialistični politični tabor« in izhajajo iz teze, da so draginja, podnebni zlom, privatizacija zdravstva in militarizacija medsebojno povezane krize kapitalizma. Program je organiziran v pet programskih odgovorov: mir, podnebje, socialna pravičnost, javno zdravstvo in suvereno gospodarstvo.
 
@@ -81,6 +91,8 @@ Mi socialisti! se opredeljujejo kot »tretji, socialistični politični tabor« 
 
 #### Slovenska demokratska stranka (SDS)
 
+*Vir: volilni program SDS, februar 2026 (programi/SDS/program.pdf).*
+
 Slovenska demokratska stranka se predstavlja kot stranka, ki zagovarja meritokracijo, ambicijo, podjetnost in individualno svobodo. Strankin program temelji na razlikovanju med lastnimi predlogi in politikami, ki jih označuje za politike »tranzicijske levice«.
 
 **Ključne programske točke:**
@@ -98,6 +110,8 @@ Slovenska demokratska stranka se predstavlja kot stranka, ki zagovarja meritokra
 ---
 
 #### NSi, SLS in FOKUS – skupna lista »Skupaj v akcijo«
+
+*Vir: volilna programa NSi in SLS, februar 2026 (programi/NSi/program.pdf in programi/SLS/program.pdf). Oba dokumenta opisujeta vsebinsko usklajeno skupno platformo.*
 
 Skupna lista Nove Slovenije (NSi), Slovenske ljudske stranke (SLS) in stranke FOKUS Marka Lotriča se opisuje kot odgovor na politično razdrobljenost in ideološko eksperimentiranje. Stranka se pozicionira kot glas za stabilnost, razvoj in skupne vrednote, pri čemer združuje tradicijo z zahtevami sodobnega časa.
 
@@ -119,6 +133,8 @@ Skupna lista Nove Slovenije (NSi), Slovenske ljudske stranke (SLS) in stranke FO
 
 #### Glas za otroke in družine (GOD)
 
+*Vir: spletni program GOD (programi/GOD/program.md; http://glaszaotrokeindruzine.si/program/).*
+
 Stranka ZA Slovenijo – Glas za otroke in družine izhaja iz prepričanja, da je zdrava, stabilna in ljubeča družina temelj vsake uspešne družbe. Zavzema se za politike, ki varujejo in krepijo družino kot temeljno celico skupnosti, pri čemer v ospredje postavlja otroke, starše in skupnostne vrednote.
 
 **Ključne programske točke:**
@@ -137,6 +153,8 @@ Stranka ZA Slovenijo – Glas za otroke in družine izhaja iz prepričanja, da j
 
 #### Slovenska nacionalna stranka (SNS)
 
+*Vir: spletni program SNS za volitve 2026 (programi/SNS/program.md; https://www.sns.si/program-volitve-dz-2026/).*
+
 Slovenska nacionalna stranka se opisuje kot zagovornica nacionalne suverenosti, temeljite prenove razmerja med Slovenijo in mednarodnimi organizacijami ter strogega upravljanja z migracijami. Stranka svoje delovanje gradi na načelih suverenistične demokracije, zaščite slovenskega naroda in varčne, učinkovite države.
 
 **Ključne programske točke:**
@@ -150,6 +168,8 @@ Slovenska nacionalna stranka se opisuje kot zagovornica nacionalne suverenosti, 
 ---
 
 #### Resni.ca
+
+*Vir: volilni program Resni.ca, marec 2026 (programi/Resnica/program.pdf).*
 
 Resni.ca se opisuje kot alternativa obstoječemu sistemu, ki ga označuje kot »izkrivljeno liberalno demokracijo«. Svojo alternativo imenuje »suverenistična demokracija«, ki na prvo mesto postavlja državljana kot suverena v notranjepolitičnem pogledu in Slovenijo kot suverena v mednarodnih razmerjih.
 
@@ -169,6 +189,8 @@ Resni.ca se opisuje kot alternativa obstoječemu sistemu, ki ga označuje kot »
 
 #### Piratska stranka Slovenije
 
+*Vir: volilni program Piratske stranke, 2026 (programi/Pirati/program.md; 27 razdelkov, zajetih s spletne strani stranke).*
+
 Piratska stranka se opredeljuje kot stranka, ki zagovarja odprto, transparentno in digitalno napredno družbo, v kateri so temeljne pravice posameznika, zasebnost in dostop do informacij sistemsko zaščiteni. Izhajajo iz načel neposredne demokracije, odprtokodnosti in sistemskega boja proti korupciji.
 
 **Ključne programske točke:**
@@ -182,6 +204,8 @@ Piratska stranka se opredeljuje kot stranka, ki zagovarja odprto, transparentno 
 ---
 
 ## Hitri pregled po področjih
+
+*Opomba: Vse primerjalne tabele v nadaljevanju povzemajo stališča iz uradnih programskih dokumentov posameznih strank, navedenih v razdelkih zgoraj. Kjer stranka določenega področja ne obravnava podrobneje, je to izrecno navedeno.*
 
 ### Stanovanja
 
@@ -316,9 +340,22 @@ Piratska stranka se opredeljuje kot stranka, ki zagovarja odprto, transparentno 
 - **Vesna:** Program stranke Vesna ni bil dostopen med pripravo tega dokumenta. Vesna kandidira v koaliciji z Levico; skupni program koalicije Levica–Vesna je opisan v razdelku Levica–Vesna zgoraj.
 - **NSi in SLS** nastopata na skupni listi »Skupaj v akcijo« skupaj s stranko FOKUS Marka Lotriča. Oba ločena programska dokumenta (NSi in SLS) opisujeta vsebinsko usklajeno skupno platformo.
 
-**Viri programskih dokumentov (spletni):**
-- Mi socialisti!: https://www.misocialisti.si/program-mi-socialisti-2026/ (objavljeno 01.03.2026)
+**Viri programskih dokumentov:**
+
+| Stranka | Oblika | Vir |
+|---------|--------|-----|
+| GS | MD (spletni program 2024) | https://www.gibanjesvoboda.si/vrednote-in-program/stebri-programa/ |
+| SDS | PDF | programi/SDS/program.pdf |
+| SD | PDF | programi/SD/program.pdf |
+| NSi | PDF (skupna lista) | programi/NSi/program.pdf |
+| SLS | PDF (skupna lista) | programi/SLS/program.pdf |
+| Levica–Vesna | PDF | programi/Levica/program_2026.pdf |
+| Resni.ca | PDF | programi/Resnica/program.pdf |
+| Pirati | MD (spletni program) | programi/Pirati/program.md |
+| SNS | MD (spletni program) | https://www.sns.si/program-volitve-dz-2026/ |
+| GOD | MD (spletni program) | http://glaszaotrokeindruzine.si/program/ |
+| Mi socialisti! | MD (spletni program, 01.03.2026) | https://www.misocialisti.si/program-mi-socialisti-2026/ |
 
 ---
 
-*Vir: Uradni programski dokumenti strank, pridobljeni marca 2026.*
+*Vir: Uradni programski dokumenti strank, pridobljeni marca 2026. Natančni viri so navedeni pri vsakem razdelku in v zgornji tabeli.*
