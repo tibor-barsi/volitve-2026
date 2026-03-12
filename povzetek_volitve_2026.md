@@ -10,7 +10,7 @@
 
 ## Politični prostor – pregled
 
-Na volitvah 22. marca 2026 nastopa širok spekter strank, od leve do desne in od parlamentarnih do zunajparlamentarnih. Trenutno vladajoče stranke so Gibanje Svoboda, SD in Levica, ki tvorijo parlamentarno koalicijo. V opoziciji sta parlamentarni stranki SDS in NSi, pri čemer NSi nastopa na skupni listi s SLS in FOKUS pod imenom »Skupaj v akcijo«. Zunajparlamentarne stranke, ki se potegujejo za vstop v parlament, vključujejo Piratsko stranko, Resni.co, SNS, GOD, Mi socialisti! in koalicijo Levica–Vesna (Vesna kot del te koalicije). Stranke se po vsebini programov razprostirajo od zeleno-levih, socialno-demokratskih in socialističnih pozicij na eni strani do desnosredinskih, konservativnih, nacionalnih in suverenističnih na drugi. Ta dokument pokriva 11 strank oziroma strankarskih list.
+Na volitvah 22. marca 2026 nastopa širok spekter strank, od leve do desne in od parlamentarnih do zunajparlamentarnih. Trenutno vladajoče stranke so Gibanje Svoboda, SD in Levica, ki tvorijo parlamentarno koalicijo. V opoziciji sta parlamentarni stranki SDS in NSi, pri čemer NSi nastopa na skupni listi s SLS in FOKUS pod imenom »Skupaj v akcijo«. Zunajparlamentarne stranke, ki se potegujejo za vstop v parlament, vključujejo Demokrate (DEM) Anžeta Logarja, Piratsko stranko, Resni.co, SNS, GOD, Mi socialisti! in koalicijo Levica–Vesna (Vesna kot del te koalicije). Stranke se po vsebini programov razprostirajo od zeleno-levih, socialno-demokratskih in socialističnih pozicij na eni strani do desnosredinskih, konservativnih, nacionalnih in suverenističnih na drugi. Ta dokument pokriva 12 strank oziroma strankarskih list.
 
 ---
 
@@ -102,6 +102,27 @@ Slovenska demokratska stranka se predstavlja kot stranka, ki zagovarja meritokra
 - *Migracije:* ostro razlikovanje med legalnimi in nelegalnimi migracijami; zagovarjanje stroge migracijske politike.
 
 **Temeljne vrednote:** meritokracija in plačilo po rezultatih; podjetnost kot gonilo razvoja; vitka država z manj birokracije; zaščita družine; enakopravna obravnava vseh državljanov.
+
+---
+
+### Desnosredinska stranka
+
+---
+
+#### Demokrati. Anžeta Logarja (DEM)
+
+*Vir: volilni program Demokrati., februar 2026 (programi/DEM/program.pdf).*
+
+Demokrati. so desnosredinska stranka, ustanovljena novembra 2024, ki jo vodi Anže Logar. Volilni program »Uspešna Slovenija 2034« zastavlja cilje za dva mandata in se osredotoča na podjetniško državo, fiskalno odgovornost, digitalizacijo in celovit pristop k nacionalni varnosti.
+
+**Ključne programske točke:**
+- *Gospodarstvo in davki:* znižanje davka od dohodkov pravnih oseb na 15 %; brez dviga davčnega primeža; združitev zgornjih dohodninskih razredov na 40 %; načelo »1 IN – 2 OUT« za deregulacijo; programski proračun z merljivimi cilji.
+- *Zdravstvo:* regionalizacija zdravstvenega sistema; krepitev primarnega zdravstva; digitalizacija z enotno platformo za naročanje; sklad za zdravljenje otrok z redkimi boleznimi.
+- *Energetika in infrastruktura:* jedrska energija in OVE kot nacionalna strategija; investicijska odločitev za JEK2 do 2028; podaljšanje NEK do 2063; izstop iz premoga do 2033; širitev avtocest na tri pasove.
+- *Varnost:* dvomesečna državljanska solidarnost za vse mladostnike; bataljon za kibernetsko obrambo; specializirana enota SKOK za pregon korupcije.
+- *Digitalizacija:* enotna mobilna aplikacija eSlovenija; nacionalni inštitut za umetno inteligenco; zmanjšanje ministrstev na 14.
+
+**Temeljne vrednote:** podjetniška država in spodbujanje inovacij; fiskalna odgovornost brez dviga davkov; celovita nacionalna varnost; digitalizacija javne uprave; demografska obnova in podpora družinam.
 
 ---
 
@@ -221,6 +242,7 @@ Piratska stranka se opredeljuje kot stranka, ki zagovarja odprto, transparentno 
 | SDS | Nasprotovanje obdavčitvi stanovanj in hiš; ustvarjanje pogojev za lastno streho in dom; odprava birokratskih ovir |
 | SNS | Stanovanje za prve nepremičnine Slovencev brez davka |
 | Mi socialisti! | Prenos presežnih stanovanj bogatih k ljudem; nova javna stanovanja in študentski domovi; regulacija najemnin |
+| DEM | Posebne kreditne sheme in projekt »Stanovanjski feniks« za dostopna stanovanja mladih družin |
 
 ### Zdravstvo
 
@@ -236,6 +258,7 @@ Piratska stranka se opredeljuje kot stranka, ki zagovarja odprto, transparentno 
 | SDS | Zavzemanje za višje plače in pokojnine |
 | SNS | Ni podrobnejših ukrepov v povzetku |
 | Mi socialisti! | Osebni zdravnik za vsakega; vrnitev zobozdravstva in ginekologije v javne domove; odprava koncesij in »dvoživk«; odprava dopolnilnega zavarovanja |
+| DEM | Regionalizacija zdravstvenega sistema; krepitev primarnega zdravstva; enotna digitalna platforma za naročanje; sklad za otroke z redkimi boleznimi |
 
 ### Okolje in energetika
 
@@ -251,6 +274,7 @@ Piratska stranka se opredeljuje kot stranka, ki zagovarja odprto, transparentno 
 | SDS | Energetska neodvisnost; nasprotovanje »utopičnim« okoljskim politikam |
 | GOD | Obnovljivi viri in obnova jedrske elektrarne Krško |
 | Mi socialisti! | Zaprtje TEŠ 6; prehod na OVE v javni in zadružni lasti; javni prevoz in trajnostna mobilnost; prehranska samooskrba z javno živilsko-predelovalno verigo |
+| DEM | JE+OVE kot nacionalna strategija; investicijska odločitev za JEK2 do 2028; podaljšanje NEK do 2063; izstop iz premoga do 2033; širitev avtocest na tri pasove |
 
 ### Davki in gospodarstvo
 
@@ -266,6 +290,7 @@ Piratska stranka se opredeljuje kot stranka, ki zagovarja odprto, transparentno 
 | GS | Pregleden davčni sistem; spodbujanje digitalizacije podjetij |
 | GOD | Davčne olajšave za družine z otroki |
 | Mi socialisti! | Nacionalizacija strateških podjetij; delavsko soupravljanje; prehod v delavske zadruge; dvig domačega povpraševanja z javnimi investicijami |
+| DEM | Znižanje DDPO na 15 %; brez dviga davčnega primeža; združitev zgornjih dohodninskih razredov na 40 %; znižanje obdavčitve najemnin in kapitalskih dohodkov; programski proračun |
 
 ### Izobraževanje
 
@@ -281,6 +306,7 @@ Piratska stranka se opredeljuje kot stranka, ki zagovarja odprto, transparentno 
 | SDS | Ni podrobnejših ukrepov v povzetku |
 | GOD | Prostovoljno obiskovanje vrtca; spoštovanje vrednotnih izhodišč staršev |
 | Mi socialisti! | Dvig štipendij; socialna varnost za mlade; ni podrobnejših ukrepov glede šolskega sistema v povzetku |
+| DEM | Univerzalna predšolska vzgoja; brezplačen vrtec za 2. in nadaljnje otroke; prepoved pametnih telefonov v OŠ; dualno izobraževanje; internacionalizacija visokega šolstva |
 
 ### Demokracija in volilni sistem
 
@@ -296,6 +322,7 @@ Piratska stranka se opredeljuje kot stranka, ki zagovarja odprto, transparentno 
 | SD | Aktivna vloga Slovenije v EU; socialni dialog |
 | GOD | Zmanjšanje birokracije; preglednost javne uprave |
 | Mi socialisti! | Ni podrobnejših ukrepov glede volilnega sistema v povzetku |
+| DEM | Zmanjšanje ministrstev na 14; enotna mobilna aplikacija eSlovenija; digitalizacija pravosodja; široka javna razprava »Pametna Slovenija 2034« |
 
 ### Migracije
 
@@ -311,6 +338,7 @@ Piratska stranka se opredeljuje kot stranka, ki zagovarja odprto, transparentno 
 | Levica–Vesna | Ni podrobnejše obravnave v povzetku |
 | GOD | Ni podrobnejše obravnave v povzetku |
 | Mi socialisti! | Ni podrobnejše obravnave v povzetku |
+| DEM | Strožji nadzor meje s sodobno opremo; podpora danskim centrom zunaj EU; obvezna javna dela za čakajoče na azil; hiter integracijski načrt za osebe s priznanim azilom |
 
 ### Pravna država in korupcija
 
@@ -326,13 +354,14 @@ Piratska stranka se opredeljuje kot stranka, ki zagovarja odprto, transparentno 
 | SDS | Enakopravna obravnava pred zakonom |
 | GOD | Neodvisno sodstvo; vladavina prava |
 | Mi socialisti! | Ni podrobnejše obravnave v povzetku |
+| DEM | Specializirana enota SKOK za pregon korupcije in organiziranega kriminala; digitalizacija pravosodja (E-Pravosodje.si); koncentrirano sojenje; reforma ustavnega sodišča |
 
 ---
 
 ## Opombe
 
 **Oblika dostopa do programskih dokumentov:**
-- *PDF (dostopno):* SDS, SD, NSi, SLS, Levica, Resni.ca
+- *PDF (dostopno):* SDS, SD, NSi, SLS, Levica, Resni.ca, DEM
 - *Spletna stran / markdown:* GS (gibanjesvoboda.si), SNS (sns.si), GOD (glaszaotrokeindruzine.si), Pirati, Mi socialisti! (misocialisti.si)
 - *Nedostopno:* Vesna – program na spletni strani vesna.si ni bil dostopen (HTTP 403 Forbidden)
 
@@ -351,6 +380,7 @@ Piratska stranka se opredeljuje kot stranka, ki zagovarja odprto, transparentno 
 | SLS | PDF (skupna lista) | programi/SLS/program.pdf |
 | Levica–Vesna | PDF | programi/Levica/program_2026.pdf |
 | Resni.ca | PDF | programi/Resnica/program.pdf |
+| DEM | PDF | programi/DEM/program.pdf |
 | Pirati | MD (spletni program) | programi/Pirati/program.md |
 | SNS | MD (spletni program) | https://www.sns.si/program-volitve-dz-2026/ |
 | GOD | MD (spletni program) | http://glaszaotrokeindruzine.si/program/ |
