@@ -133,7 +133,7 @@ Skupno sedežev: **88** (proporcionalnih) + 2 sedeža manjšin = 90 skupaj v DZ 
 
 | Vir | Datum | SDS | GS | NSi+SLS+F | SD | Lev+Vesna | DEM | Resni.ca | Opombe |
 |-----|-------|-----|----|-----------|----|-----------|-----|----------|--------|
-| [Volilna napoved](https://volilna-napoved.si/) | 11. mar 2026 | 28 | 24 | 7 | 8 | 8 | 4 | 9 | Najnovejša |
+| [Volilna napoved](https://volilna-napoved.si/) | 11. mar 2026 | 28 | 24 | 7 | 8 | 8 | 4 | 4 | Najnovejša |
 | [Volilna napoved](https://volilna-napoved.si/) | 6. mar 2026 | 33 | 23 | 9 | 9 | 6 | — | 8 | |
 | [Volilna napoved](https://volilna-napoved.si/) | 4. mar 2026 | 29 | 27 | 8 | 9 | 7 | — | 8 | |
 | Mediana za POP TV | 1. mar 2026 | 30 | 26 | 6 | 6 | 10 | 4 | 6 | |
@@ -143,6 +143,8 @@ Skupno sedežev: **88** (proporcionalnih) + 2 sedeža manjšin = 90 skupaj v DZ 
 | Ninamedia za Dnevnik | 14. feb 2026 | 28 | 25 | 8 | 7 | 8 | 4 | 8 | |
 | Valicon za Siol.net | 11. feb 2026 | 29 | 25 | 8 | 12 | 7 | — | 7 | |
 | Mediana za Delo | 15. jan 2026 | 30 | 23 | 9 | 9 | 6 | 4 | 6 | |
+
+*Opomba: Projekcije sedežev so modelski izračuni in se lahko bistveno razlikujejo od dejanskih rezultatov.*
 
 *Vir projekcij: Volilna napoved — [volilna-napoved.si](https://volilna-napoved.si/); projekcije posameznih agencij povzete iz njihovih objav pri navedenih naročnikih. Zbrano tudi prek [Wikipedije – JMR DZ 2026](https://sl.wikipedia.org/wiki/Javnomnenjske_raziskave_za_dr%C5%BEavnozborske_volitve_v_Sloveniji_2026).*
 
@@ -228,8 +230,10 @@ Na podlagi najnovejše projekcije sedežev ([Volilna napoved](https://volilna-na
 | NSi + SLS + Fokus | 7 |
 | Levica + Vesna | 8 |
 | DEM (Logar) | 4 |
-| Resni.ca | 9 |
-| **Skupaj** | **88** |
+| Resni.ca | 4 |
+| **Skupaj** | **83** |
+
+*Opomba: Seštevek ne doseže 88, ker projekcija za nekatere manjše stranke (npr. Pirati, SNS, PVP) ne predvideva preseženja 4-odstotnega praga; ti sedeži se po D'Hondtovem sistemu prerazporedijo med stranke nad pragom.*
 
 ### Scenariji
 
@@ -237,10 +241,14 @@ Na podlagi najnovejše projekcije sedežev ([Volilna napoved](https://volilna-na
 
 **Levi blok** (GS + SD + Levica+Vesna): 24 + 8 + 8 = **40 sedežev** — *6 sedežev pod večino*
 
-**Resni.ca kot "kingmaker" (9 sedežev):**
-Nobeden od blokov ne dosega večine (46 sedežev) brez Resni.ce. Resni.ca je edina stranka, ki bi kateri koli strani zagotovila parlamentarno večino. Ker je vabilo Goloba že zavrnila, je njen položaj pri pogajanjih po volitvah izjemno močan.
+**Resni.ca (4 sedeži):**
+Ob korekciji projekcije sedežev za Resni.co (ankete kažejo 1,9–4,0 %, kar ustreza ~4 sedežem, ne 9) noben blok ne dosega večine niti s podporo Resni.ce:
+- Desni blok + Resni.ca: 39 + 4 = **43 sedežev** — *3 sedeže pod večino*
+- Levi blok + Resni.ca: 40 + 4 = **44 sedežev** — *2 sedeža pod večino*
 
-**Zaključek:** Nobena projekcija trenutno ne kaže jasne večine za nobeden od blokov. Koalicijska pogajanja po volitvah so neizogibna. *(Potrebna večina za izvolitev vlade je 46 od 90 poslancev DZ — čl. 111 Ustave RS.)*
+Resni.ca torej pri tej projekciji ni v vlogi »kingmakerja«, ki bi sam po sebi zagotovil večino enemu od blokov.
+
+**Zaključek:** Nobena projekcija trenutno ne kaže jasne večine za nobeden od blokov. Za sestavo vlade bo verjetno potrebna širša koalicija ali dogovor, ki presega klasično levo-desno delitev. Koalicijska pogajanja po volitvah so neizogibna. *(Potrebna večina za izvolitev vlade je 46 od 90 poslancev DZ — čl. 111 Ustave RS.)*
 
 ---
 
