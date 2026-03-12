@@ -8,7 +8,7 @@
 
 ## Uvod in metodologija
 
-Volilni programi navadno opisujejo cilje: kaj stranka želi doseči. Redkeje opisujejo sredstva: kako točno namerava to doseči, s katerim zakonom, v katerem proračunskem letu in iz katerega vira sredstev. Ta analiza preučuje prav ta drugi nivo — implementacijski načrt — za devet strank in eno skupno listo (NSi+SLS+Fokus), ki nastopajo na volitvah 22. marca 2026.
+Volilni programi navadno opisujejo cilje: kaj stranka želi doseči. Redkeje opisujejo sredstva: kako točno namerava to doseči, s katerim zakonom, v katerem proračunskem letu in iz katerega vira sredstev. Ta analiza preučuje prav ta drugi nivo — implementacijski načrt — za deset strank in eno skupno listo (NSi+SLS+Fokus), ki nastopajo na volitvah 22. marca 2026.
 
 **Metodološki okvir:** Za vsako obljubo so bila preverjena tri vprašanja:
 
@@ -50,6 +50,7 @@ Vsaka obljuba iz volilnih programov bo morala biti uresničena znotraj naslednji
 | **SDS** | 2-mesečni rok za gradbeno dovoljenje, najem z odkupom | Zakonska sprememba (splošno) | Ni naveden |
 | **Resni.ca** | Odprava načrtovanega davka na nepremičnine | Zakonodajna ukinitev | Nadomestilo ni navedeno |
 | **MiSocialisti** | Brezplačni javni prevoz; nacionalizacija | Zakon (splošno) | Ni naveden |
+| **DEM** | Posebne kreditne sheme; projekt »Stanovanjski feniks« (tipska gradnja na komunalno opremljenih parcelah); »Dvoriščne četrti« | Zakon; posebno partnerstvo občin in države; reformirana zemljiška politika | Postopno vračilo komunalnega stroška; ni skupne ocene |
 | **SNS** | Ni specifičnih stanovanjskih ukrepov | — | — |
 
 **Dejstvene ugotovitve:** Levicin cilj 20.000 javnih najemnih stanovanj do **2032** je za tri leta bolj ambiciozen od vladnega Nacionalnega stanovanjskega programa 2026–2035, ki si isti cilj (20.000 stanovanj) zastavlja do leta **2035**. Levicin cilj pomeni gradnjo ~2.860 enot letno v sedmih letih; pri cenah gradnje 150.000–200.000 EUR/enoto (brez stroškov zemljišč) to zahteva 430–570 mio EUR letno — štirikrat do šestkrat več od vladne zaveze 100 mio EUR/leto. Program vira financiranja ne navaja. Od EU kohezijskih sredstev je Slovenija prejela 48,4 mio EUR za ta namen; to je občutno manj od potrebnega. Piratski model (prihodki iz nepremičninskega davka namenjeni gradnji) je internokoherenten, a program ne vsebuje ocene prihodkov davka niti načrta za prehodno obdobje. Model Help to Buy (NSi+SLS) je uveljavljena praksa v več državah EU (Irska, VB, Češka), a program ne navaja obsega jamstvene sheme niti ocene dolgoročnega fiskalnega tveganja za državo.
@@ -70,6 +71,7 @@ Vsaka obljuba iz volilnih programov bo morala biti uresničena znotraj naslednji
 | **Pirati** | Razbitje ZZZS na 3 zavarovalnice | Strukturna reforma | Ni naveden; brez prehodnega modela |
 | **MiSocialisti** | Ginekologija vrne v javne ZD; odprava privatizacije | Zakon (splošno) | Odprava DZZ; prenos na proračun (brez izračuna) |
 | **Resni.ca** | Odprava dopolnilnega zdravstvenega zavarovanja (DZZ) | Zakonodajna ukinitev | Nadomestilo iz »davkov« (ni specificirano) |
+| **DEM** | Regionalizacija zdravstva (zdravstvene regije, skupne službe); krepitev primarnega zdravstva (znižanje GK na 1500); e-Bolniška za zmanjšanje absentizma; sklad za redke bolezni | Zakon; regionalne uprave; digitalna platforma; konkretni KPI | Prihranki iz regionalizacije (~70–140 mio EUR/leto, lastna ocena); prihranki iz e-Bolniške (~60–185 mio EUR/leto, lastna ocena) |
 | **SNS** | Ni specifičnih zdravstvenih reform | — | — |
 
 **Dejstvene ugotovitve:** Noben program ne vsebuje ocene, koliko zdravnikov in medicinskih sester bi morala Slovenija dodatno izobraževati ali zaposliti, da bi odpravila primanjkljaj — čeprav je kadrovski primanjkljaj v vseh analizah identificiran kot ključni vzrok težav. Gradnja nove UKC Ljubljana je obljuba, ki se v različnih oblikah pojavlja v volilnih programih več kot desetletje; predračunska vrednost projekta presega 1 mrd EUR, program pa ne navaja finančnega načrta. Odprava DZZ (Resni.ca, MiSocialisti) bi pomenila izpad ~300 mio EUR letno iz blagajne ZZZS; oba programa navajata prenos na proračun ali »davke«, ne pa konkretne postavke ali davčne osnove. Razbitje ZZZS na tri zavarovalnice (Pirati) je strukturna reforma brez navedenega prehodnega modela ali ocene stroškov prehoda.
@@ -88,6 +90,7 @@ Vsaka obljuba iz volilnih programov bo morala biti uresničena znotraj naslednji
 | **GS** | Ustrezno financiranje visokih šol | Splošna zaveza | Ni naveden |
 | **Pirati** | Brezplačno izobraževanje do doktorata | Zakon | Ni naveden |
 | **GOD** | Vzgojni dodatek za starše doma | Ni naveden | Ni naveden (brez zneska) |
+| **DEM** | Brezplačen vrtec za 2. in nadaljnje otroke; prepoved pametnih telefonov v OŠ; uvedba predmeta računalništva; univerzalna dostopnost predšolske vzgoje | Zakon; kurikularna prenova | Ni naveden |
 | **SDS** | Ni specifičnih ukrepov za šolstvo | — | — |
 | **SNS** | Ni specifičnih ukrepov za šolstvo | — | — |
 
@@ -109,6 +112,7 @@ Vsaka obljuba iz volilnih programov bo morala biti uresničena znotraj naslednji
 | **Pirati** | Znižanje dohodnine 1. razreda na 0 % | Zakon | Ni naveden |
 | **MiSocialisti** | Odprava DZZ; nacionalizacija strateških sektorjev | Zakon (splošno) | Ni naveden |
 | **GS** | Brez specifičnih davčnih ukrepov | — | — |
+| **DEM** | Brez dviga davčnega primeža; znižanje DDPO na 15 %; znižanje obdavčitve najemnin (25 % → 15 %) in kapitalskih dohodkov (25 % → 20 %); združitev zgornjih dohodninskih razredov na 40 %; zvišanje splošne olajšave na 7.000 EUR | Zakon; konkretne stopnje navedene | »Javnofinančna nevtralnost« — kompenzacija iz rasti gospodarske aktivnosti (ni kvantificirano) |
 | **Levica** | Progresivnejši davčni sistem; davki na špekulativne nepremičnine | Zakon (splošno) | Ni naveden |
 
 **Dejstvene ugotovitve:** Fiskalni svet je pred volitvami izrecno opozoril, da nobena stranka v programu ne navaja skupnega fiskalnega učinka svojih davčnih obljub. Resni.ca v programu ne predlaga enotne davčne stopnje (»flat tax«), temveč razširitev obstoječih dohodninskih razredov z namenom zmanjšanja progresije; lastna fiskalna ocena programa navaja izpad **−0,8 mrd EUR** za dohodninsko reformo, skupni izpad vseh ukrepov (trošarine >0,6 mrd EUR, nepremičninski davek ~0,3–0,5 mrd EUR, DZZ ~0,3 mrd EUR) pa znaša **≥1,7 mrd EUR letno** — nekompenziran, medtem ko program hkrati navaja cilj zmanjšanja javnega dolga. Predlog SNS o znižanju DDV na 12 % je **v neposrednem nasprotju z EU direktivo o DDV** (Direktiva 2006/112/ES zahteva minimalno splošno stopnjo 15 %); brez izstopa iz EU je neizvedljiv. Predlog SNS in Resni.ca o znižanju DDPO na 10 % se **delno križa z implementacijo Pillar 2** (globalni minimum 15 % za podjetja s prometom >750 mio EUR/leto, v SLO veljavno od 31. 12. 2023) — za manjša podjetja bi bila nižja stopnja načeloma dovoljena, za multinacionalke ne. Dvig dohodninske olajšave NSi+SLS na 10.500 EUR bi pomenil znižanje prihodkov iz dohodnine — obsega program ne ocenjuje. SD je edini program z navedeno konkretno davčno stopnjo za nov davek (premoženjski davek 0,1–0,5 %) in z izrecno trditvijo o nevtralnem fiskalnem učinku; prav tako ne navaja ocene, koliko zavezancev bi ta davek zajel in ali je ocena nevtralnosti preverljiva.
@@ -129,6 +133,7 @@ Vsaka obljuba iz volilnih programov bo morala biti uresničena znotraj naslednji
 | **SNS** | SLOexit (izstop iz EU) | Referendum | Ekonomske posledice niso analizirane |
 | **Resni.ca** | Odprava trošarin na energente; nasprotovanje CBDC | Zakon; EU/ECB pristojnost ni upoštevana | Nadomestilo ni navedeno |
 | **SD** | Demografski sklad iz naravnih virov | Nov vir (državno premoženje + rente) | Konkreten mehanizem naveden |
+| **DEM** | JE+OVE kot nacionalna strategija; končna investicijska odločitev za JEK2 do 2028; podaljšanje NEK do 2063; izstop iz premoga do 2033, TEŠ 6 kot strateška rezerva do priklopa JEK2; shema »Sonce s hranilnikom« | Zakon; vključitev JEK2 v Zakon o razvoju Slovenije; konkreten rok | Ni naveden; finančni načrt za JEK2 ni podan |
 | **MiSocialisti** | Preklic NATO nabav | Zakon | Pravne posledice pogodb niso navedene |
 
 **Dejstvene ugotovitve:** JEK 2 omenja ali podpira pet strank (GS, NSi+SLS, Levica pogojno, Pirati, SDS posredno). Nobena ne navaja finančnega načrta — po primerljivih EU projektih (Hinkley Point C ~£33 mrd, Olkiluoto 3 ~11 mrd EUR) je investicija za ~1.250 MW v razredu **8–15 mrd EUR**, kar je primerljivo z vsemi letnimi proračunskimi odhodki za eno do dve leti. Levicin cilj pretvorbe TEŠ v solarni park do 2032 vsebuje rok, ne pa ocene nadomestne zmogljivosti: TEŠ 6 zagotavlja ~3.500–3.800 GWh letno zimske bazne obremenitve, solarna energija pa te vloge strukturno ne more prevzeti (sezonska in dnevna odvisnost). Celotna inštalirana solarna zmogljivost v SLO (1.571 MW, konec 2025) teoretično ustreza TEŠ zmogljivosti (600 MW), a pri faktorju izkoriščenosti ~12 % (sonce) vs. ~55 % (TEŠ) realna letna proizvodnja ne nadomesti TEŠ brez baterijskega ali drugega shranjevanja. Podaljšanje rabe premoga do 2040 (SDS) bi zahtevalo izstop iz EU ETS sheme ali pridobitev izjeme; program tega ne obravnava. Nasprotovanje CBDC (Resni.ca) je brez praktičnega učinka, ker odločitev o digitalnem evru spada v pristojnost ECB in ne zahteva nacionalnega soglasja.
@@ -151,6 +156,7 @@ Vsaka obljuba iz volilnih programov bo morala biti uresničena znotraj naslednji
 | **SDS** | Vitka država; višje plače in pokojnine | Splošna zaveza | »Prihranki pri migrantih« (ni kvantificirano) |
 | **Resni.ca** | Resni.START 500 EUR/otrok ob rojstvu | Zakon; ~10 mio EUR/leto | Konkreten in majhen — sorazmerno realistično ocenjen |
 | **MiSocialisti** | Skrajšanje delovnega časa (brez navedenega števila ur) | Zakon (splošno) | Brez analize produktivnosti |
+| **DEM** | Pokojninska reforma z uvedbo II. in III. stebra; flexicurity na trgu dela; neprostovoljna pokojnine iz pokojninske v državno blagajno | Zakon; socialni dialog po danskem modelu | Ni naveden; prenos neprostovoljnih pokojnin na proračun (obseg ni ocenjen) |
 | **GOD** | Vzgojni dodatek za starše doma | Zakon | Brez zneska in finančnega modela |
 
 **Dejstvene ugotovitve:**
@@ -179,6 +185,7 @@ Vsaka obljuba iz volilnih programov bo morala biti uresničena znotraj naslednji
 | **Levica** | Referendumski dan letno po švicarskem vzoru | Zakon | Zahteva spremembo Zakona o referendumu |
 | **SNS** | SLOexit (izstop iz EU); izstop iz NATO, OZN, WHO | Referendum | Brez analize ekonomskih in pravnih posledic |
 | **GOD** | Ustavna prepoved splava; definicija zakona | Ustavna sprememba | Zahteva 2/3 večino |
+| **DEM** | Zmanjšanje ministrstev na 14; zakonska podlaga za pokrajine; SKOK za pregon korupcije; E-Pravosodje.si | Zakon; reorganizacija; digitalizacija | Zahteva ustavno spremembo (pokrajine); zakonsko spremembo (SKOK) |
 | **GS** | Ni specifičnih institucionalnih reform | — | — |
 | **SD** | Ni specifičnih institucionalnih reform | — | — |
 
@@ -206,6 +213,8 @@ Vsaka obljuba iz volilnih programov bo morala biti uresničena znotraj naslednji
 
 **Glas za otroke in družine (GOD):** Večina programskih točk so vrednostne ali ideološke izjave, ki zahtevajo ustavne spremembe (prepoved splava, definicija zakona). Socialni ukrepi (vzgojni dodatek, hospic mreža) so navedeni brez zneskov in finančnih modelov.
 
+**Demokrati. (DEM):** Program (76 strani, naslov »Uspešna Slovenija 2034«) je med obsežnejšimi in strukturno podrobnimi. Vsebuje konkretne davčne stopnje (DDPO 15 %, najemnine 15 %, kapitalski dohodki 20 %, zgornji dohodninski razred 40 %), roke (JEK2 investicijska odločitev do 2028, izstop iz premoga do 2033, NEK do 2063) in lastne ocene prihrankov v zdravstvu (regionalizacija ~70–140 mio EUR/leto, e-Bolniška ~60–185 mio EUR/leto). Program navaja načelo »javnofinančne nevtralnosti« — brez dviga davčnega primeža — a ne vsebuje skupne ocene fiskalnega učinka davčnih znižanj (DDPO, dohodnina, najemnine, kapitalski dohodki). Stanovanjski ukrepi (»Stanovanjski feniks«, kreditne sheme) so opisani konceptualno, brez ocene obsega ali števila stanovanj. Pokojninska reforma (II. in III. steber) je navedena brez časovnice ali aktuarskega izračuna. Dvomesečna državljanska solidarnost je konkreten ukrep brez navedene stroškovne ocene. Obrambni izdatki omenjajo mednarodno zavezujoči cilj, do 3,5 % BDP za kibernetsko obrambo.
+
 **Mi, socialisti! (MiSocialisti):** Program predvideva obsežne strukturne posege (nacionalizacija strateških sektorjev, zaprtje DOVOS, preklic NATO nabav) brez kompenzacijskih načrtov, vrednotenj ali analize pravnih posledic obstoječih pogodb.
 
 ---
@@ -226,7 +235,7 @@ Analiza kaže tri skupne vzorce, ki so skupni večini programov ne glede na poli
 
 | Dokument | Vir / datum |
 |---|---|
-| Volilni programi strank | Uradne spletne strani strank, feb–mar 2026 |
+| Volilni programi strank (vključno z DEM — »Uspešna Slovenija 2034«) | Uradne spletne strani strank, feb–mar 2026 |
 | UMAR — Pomladanska napoved 2026 | 5. 3. 2026 |
 | GURS — cene nepremičnin H1 2025 | GURS, 2025 |
 | MF — javnofinančni podatki | MF / RTV SLO, feb 2026 |
