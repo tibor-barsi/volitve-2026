@@ -66,7 +66,8 @@ volitve-2026/
     │   ├── program.md               # Zbrano s spletne strani
     │   └── povzetek.md
     ├── DEM/                         # Demokrati. Anžeta Logarja
-    │   └── program.pdf              # "Uspešna Slovenija 2034", Feb 2026
+    │   ├── program.pdf              # "Uspešna Slovenija 2034", Feb 2026
+    │   └── povzetek.md
     └── Vesna/                       # Vesna – zelena stranka (skupna lista z Levico)
         └── program.md               # Nadomestna datoteka – spletna stran nedostopna (HTTP 403)
 ```
