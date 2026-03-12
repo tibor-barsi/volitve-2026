@@ -182,7 +182,86 @@ Splošna usmeritev k progresivnejšemu sistemu; davki na špekulativne nepremič
 
 ---
 
-## 7. Primerjalna tabela
+## 7. DEM (Demokrati.): Celovita davčna razbremenitev brez dviga primeža
+
+### Predlog (program »Uspešna Slovenija 2034«, feb 2026)
+
+Program vsebuje obsežen nabor davčnih ukrepov, ki jih stranka označuje za »fiskalno prilagoditev« — zmanjšanje davčnega bremena ob hkratnem zmanjšanju javnih izdatkov. Temeljna obljuba: **ne bo dviga davčnega primeža**. Konkretni predlogi:
+
+- **DDPO**: Znižanje s 19 % na **15 %** (ohranitev R&D olajšav in pokrivanja izgub do minimalne efektivne stopnje 10 %).
+- **Dohodninska lestvica**: Združitev zgornjih razredov — znižanje najvišje stopnje s 50 % na **40 %**.
+- **Splošna dohodninska olajšava**: Zvišanje na **7.000 EUR** letno (raven kratkoročnih minimalnih stroškov).
+- **Obdavčitev najemnin**: Znižanje s 25 % na **15 %** dohodnine.
+- **Obdavčitev kapitalskih dohodkov**: Znižanje s 25 % na **20 %**.
+- **Razvojna kapica**: Uvedba zgornje meje obdavčitve plač, ključnih za razvojni segment z visoko dodano vrednostjo (konkretna višina ni navedena).
+- **30-% dohodninska olajšava za tuje strokovnjake** (po nizozemskem zgledu »30 % ruling«).
+- **Davčne olajšave za vlaganja v zagonska podjetja**: 40 % za naložbe do 100.000 EUR, 30 % za naložbe do 1 mio EUR; oprostitev kapitalskega dobička prvih 3 let.
+- **Degresivna obdavčitev kapitala za zaposlene** z lastniškimi deleži: 15 % (do 3 let), 10 % (do 7 let), 0 % (po 10 letih).
+- **30-% degresivna amortizacija** kot pospešek investicij.
+- **Pavšalni prispevki za s. p.** z letnim prometom do 15.000 EUR: 250 EUR/mesec.
+- **Informativni mesečni obračun DDV** (predizpolnjen s strani FURS).
+
+Proračunski ukrepi: programski proračun z merljivimi cilji, 4-letno načrtovanje, ničelna proračunska osnova, letna ukinitev 5–10 % najmanj učinkovitih programov.
+
+### Fiskalna analiza
+
+**1. DDPO: 19 % → 15 %**
+- Letni prihodki iz DDPO: ~1,4 mrd EUR.
+- Znižanje za 4 odstotne točke (iz 19 % na 15 %) pri linearni aproksimaciji pomeni izpad ~**290–300 mio EUR/leto**.
+- Dejanski izpad bi bil nižji, če bi olajšave (R&D, pokrivanje izgub) znižale efektivno stopnjo pod 15 % za del zavezancev že zdaj; za te zavezance se stopnja dejansko ne spremeni.
+- **Pillar 2**: 15 % je natanko na meji globalnega minimalnega davka — za multinacionalne skupine nad pragom 750 mio EUR letnega prometa ni konflikta, saj bo efektivna stopnja ≥15 %. Za manjša podjetja z olajšavami (efektivna stopnja 10 %) velja enako kot danes — Pillar 2 jih ne zavezuje neposredno.
+- Primerjava: Irska (12,5 % → 15 %), Madžarska (9 %), Bolgarija (10 %). Stopnja 15 % bi Slovenijo uvrstila v spodnjo tretjino EU, a skladno s Pillar 2.
+
+**2. Dohodnina: zgornji razred s 50 % na 40 %**
+- Najvišji razred (50 %) zajame dohodke nad ~83.000 EUR letno (2026). Združitev z razredom 39 % (od ~56.000 do ~83.000 EUR) na enotnih 40 % pomeni izpad pri davkoplačevalcih z dohodki nad ~56.000 EUR.
+- Ocena: Število zavezancev v zgornjih dveh razredih je relativno majhno (~20.000–40.000), a njihovi dohodki prispevajo nesorazmerno velik delež dohodnine. Izpad je ocenjen na ~**80–150 mio EUR/leto** (groba ocena na podlagi FURS podatkov o razporeditvi zavezancev po razredih).
+
+**3. Splošna dohodninska olajšava na 7.000 EUR**
+- Program navaja zvišanje na 7.000 EUR. Obstoječa splošna olajšava za 2026 je ocenjena na ~5.000–5.500 EUR (osnovna, brez dodatnih); za višje dohodke se zmanjšuje.
+- Zvišanje za ~1.500–2.000 EUR na zavezanca pri ~900.000 zavezancih in povprečni marginalni stopnji ~27 % pomeni izpad ~**350–480 mio EUR/leto**.
+- Dejanski izpad je odvisen od strukture olajšave (ali ostaja degresivna ali postane enotna).
+
+**4. Obdavčitev najemnin: 25 % → 15 %**
+- Dohodnina od oddajanja premoženja v najem je obdavčena s cedularno stopnjo 25 %. Znižanje na 15 % pomeni 40-% znižanje davka.
+- Prihodki iz najemnin v proračun: ocenjeno ~100–150 mio EUR/leto (FURS). Izpad: ~**40–60 mio EUR/leto**.
+- Cilj ukrepa je zmanjšanje sive ekonomije pri najemninah — stranka implicitno predpostavlja, da bo nižja stopnja povečala prijavljivanje in delno kompenzirala izpad. Ta učinek je verjeten, a nekvantificiran.
+
+**5. Obdavčitev kapitalskih dohodkov: 25 % → 20 %**
+- Cedularni davek na kapitalske dohodke (dividende, obresti, dobički): 25 %. Znižanje na 20 % pomeni izpad ~**50–80 mio EUR/leto** (ocena na podlagi prihodkov iz kapitalskih dohodkov ~300–350 mio EUR/leto).
+
+**6. Ostali ukrepi (razvojna kapica, olajšave za startupe, 30 % ruling za tujce)**
+- **Razvojna kapica**: Brez navedene višine je fiskalni izpad neocenljiv. Nizozemska, ki jo program navaja kot zgled, omogoča 30 % ruling (olajšava za tuje strokovnjake), ne pa kapice na plače nasploh.
+- **30-% olajšava za tuje strokovnjake**: Nizozemski model v praksi pomeni, da je 30 % bruto plače izvzetih iz dohodnine. Učinek je odvisen od števila upravičencev; ob predpostavki 2.000–5.000 upravičencev s povprečno bruto plačo 60.000 EUR je izpad ~**10–25 mio EUR/leto** — relativno majhen.
+- **Olajšave za vlaganja v zagonska podjetja (40 % / 30 %)**: Izpad je odvisen od obsega naložb. Program navaja ciljno investicijsko kapaciteto 300 mio EUR do 2032; ob 35-% povprečni olajšavi bi bil izpad ~**20–35 mio EUR/leto** v polnem obsegu.
+- **Pavšalni prispevki (250 EUR/mesec za s. p. do 15.000 EUR prometa)**: Učinek na prihodke je skromen; gre pretežno za poenostavitev, ne za bistveno znižanje.
+
+**Skupni ocenjeni letni izpad prihodkov:**
+
+| Ukrep | Ocenjeni izpad |
+|---|---|
+| DDPO: 19 % → 15 % | −290–300 mio EUR |
+| Dohodnina: zgornji razredi na 40 % | −80–150 mio EUR |
+| Splošna olajšava na 7.000 EUR | −350–480 mio EUR |
+| Najemnine: 25 % → 15 % | −40–60 mio EUR |
+| Kapitalski dohodki: 25 % → 20 % | −50–80 mio EUR |
+| Ostali ukrepi (ruling, startupe, kapica) | −30–60 mio EUR |
+| **Skupaj** | **≈ −840 mio – 1,13 mrd EUR/leto** |
+
+**Navedena kompenzacija:**
+- Program eksplicitno navaja cilj »javnofinančne nevtralnosti« — izpad naj bi se pokril z zmanjšanjem javnih izdatkov (ukinitev 5–10 % najmanj učinkovitih proračunskih programov letno) in z rastjo prihodkov iz povečane gospodarske aktivnosti.
+- 5–10 % proračunskih izdatkov (~15,5 mrd EUR skupnih izdatkov 2026) = 775 mio – 1,55 mrd EUR. Vendar: ukinitev 5–10 % proračunskih programov letno je politično in pravno izjemno zahtevna. Večina proračunskih izdatkov je zakonsko ali pogodbeno vezana (plače javnih uslužbencev, socialni transferji, pokojnine, zdravstvo). Diskrecijski del proračuna, ki ga je mogoče resnično »ukiniti«, je bistveno manjši od 10 % celotnih izdatkov.
+- Povečana gospodarska aktivnost kot vir dodatnih prihodkov je standardni argument ponudbene ekonomike (supply-side economics). Učinek ni nič, a je v ekonomski literaturi praviloma ocenjen na 10–30 % začetnega izpada v kratkem roku (1–3 leta) in do 50 % v dolgoročnem roku (5–10 let).
+
+**EU okvir:**
+- DDPO na 15 % je skladen s Pillar 2 in ne zahteva spremembe EU prava.
+- Dohodninski in cedularni ukrepi so v nacionalni pristojnosti in ne zahtevajo spremembe EU prava.
+- Slovenija je v EDP postopku — neto davčna razbremenitev ~1 mrd EUR/leto brez dokazanih kompenzacij bi zahtevala pojasnilo Evropski komisiji.
+
+**Sklep:** DEM ima med vsemi strankami najbolj razdelan nabor davčnih ukrepov s konkretnimi stopnjami. Posamezni ukrepi so zakonodajno izvedljivi in ne nasprotujejo pravu EU. Skupni fiskalni izpad je v razredu 0,8–1,1 mrd EUR/leto. Program navaja kompenzacijo prek zmanjšanja javnih izdatkov, a obseg realno dosegljivih prihrankov v kratkem roku (1–2 leti) je bistveno manjši od navedenega cilja 5–10 % izdatkov. Trditev o fiskalni nevtralnosti je zato podprta le delno.
+
+---
+
+## 8. Primerjalna tabela
 
 | Stranka | Ključni davčni predlog | Naveden fiskalni izpad | Ocenjeni dejanski izpad | Kompenzacija | Konflikt z EU pravom |
 |---|---|---|---|---|---|
@@ -193,6 +272,7 @@ Splošna usmeritev k progresivnejšemu sistemu; davki na špekulativne nepremič
 | **Pirati** | Dohodnina 1. razred → 0 % | Ni ocenjen | 150–200 mio EUR/leto | Ni navedena | Ne |
 | **Levica** | Progresivnejši sistem; špekulativni nep. davek | Ni navedeno | Neocenljivo (brez stopenj) | Ni navedena | Ne |
 | **SDS** | Splošno znižanje davkov; brez nep. davka | Ni ocenjen | Neocenljivo (brez stopenj) | Ni navedena | Ne |
+| **DEM** | DDPO 15 %; dohodnina zgornji razredi 40 %; olajšava 7.000 EUR; najemnine 15 %; kapital 20 % | Ni ocenjen | 0,8–1,1 mrd EUR/leto | Zmanjšanje izdatkov (5–10 % programov/leto) | Ne |
 | **GS** | Ni specifičnih ukrepov | — | — | — | — |
 
 ---
@@ -201,15 +281,17 @@ Splošna usmeritev k progresivnejšemu sistemu; davki na špekulativne nepremič
 
 1. **Nobena stranka ne navaja skupnega fiskalnega učinka davčnih obljub.** Fiskalni svet je pred volitvami (mar 2026) javno izpostavil to pomanjkljivost pri vseh strankah.
 
-2. **SD je edina stranka z navedenimi konkretnimi stopnjami novega davka** (premoženjski davek 0,1–0,5 %) in z eksplicitno trditvijo o fiskalnem nevtralnem učinku. Nevtralnost pa ni podprta z navedenimi ocenami.
+2. **DEM ima najobsežnejši nabor konkretnih davčnih predlogov** (DDPO 15 %, dohodnina 40 %, olajšava 7.000 EUR, najemnine 15 %, kapital 20 %) s skupnim izpadom v razredu 0,8–1,1 mrd EUR/leto. Kompenzacijo predvideva prek zmanjšanja izdatkov, a obseg dosegljivih prihrankov v kratkem roku je negotov.
 
-3. **SNS predlog 12 % DDV je v neposrednem nasprotju z direktivo EU o DDV** (minimalna splošna stopnja: 15 %). Izveden je neizvedljiv brez spremembe EU direktive ali izstopa iz EU.
+3. **SD je edina stranka z navedenimi konkretnimi stopnjami novega davka** (premoženjski davek 0,1–0,5 %) in z eksplicitno trditvijo o fiskalnem nevtralnem učinku. Nevtralnost pa ni podprta z navedenimi ocenami.
 
-4. **Pillar 2 (15 % min. korporativni davek)** — Slovenija ga je implementirala 31. 12. 2023 — omejuje predloge Resni.ca in SNS za 10-% DDPO pri multinacionalnih skupinah z letnim prometom > 750 mio EUR. Za manjša podjetja ni pravnega konflikta.
+4. **SNS predlog 12 % DDV je v neposrednem nasprotju z direktivo EU o DDV** (minimalna splošna stopnja: 15 %). Izveden je neizvedljiv brez spremembe EU direktive ali izstopa iz EU.
 
-5. **Slovenija je v EDP postopku EU** (postopek za čezmerni primanjkljaj od 2024). To pomeni, da ne more prosto sprejemati ukrepov z neto negativnim fiskalnim učinkom brez kompenzacij, ne da bi tvegala sankcije EU.
+5. **Pillar 2 (15 % min. korporativni davek)** — Slovenija ga je implementirala 31. 12. 2023 — omejuje predloge Resni.ca in SNS za 10-% DDPO pri multinacionalnih skupinah z letnim prometom > 750 mio EUR. Za manjša podjetja ni pravnega konflikta. DEM predlog 15 % DDPO je natanko na meji Pillar 2 in s tem skladen.
 
-6. **Socialni prispevki (17,2 % BDP) so res med najvišjimi v EU.** Vsaka stranka, ki predlaga razbremenitev dela, ima za to strukturno ekonomsko podlago — a mora navesti, iz česa bo financirala zdravstveno in pokojninsko blagajno.
+6. **Slovenija je v EDP postopku EU** (postopek za čezmerni primanjkljaj od 2024). To pomeni, da ne more prosto sprejemati ukrepov z neto negativnim fiskalnim učinkom brez kompenzacij, ne da bi tvegala sankcije EU.
+
+7. **Socialni prispevki (17,2 % BDP) so res med najvišjimi v EU.** Vsaka stranka, ki predlaga razbremenitev dela, ima za to strukturno ekonomsko podlago — a mora navesti, iz česa bo financirala zdravstveno in pokojninsko blagajno.
 
 ---
 
@@ -224,6 +306,7 @@ Splošna usmeritev k progresivnejšemu sistemu; davki na špekulativne nepremič
 | RTV SLO / MF — davčni prihodki 2025 | feb 2026 |
 | Resni.ca — program 2026 (PDF, besedilo) | jan 2026 |
 | SNS — program 2026 (sns.si) | 17. 1. 2026 |
+| Demokrati. — program »Uspešna Slovenija 2034« (PDF) | feb 2026 |
 | Direktiva Sveta 2006/112/ES (DDV direktiva) | — |
 | OECD Pillar 2 — implementacijska tabela | 2023 |
 | ECB — Household Finance and Consumption Survey | 2021 |
