@@ -32,6 +32,8 @@
 | Resni.ca | 2,7 |
 | Pirati | 1,5 |
 | SNS | 0,8 |
+| SD | ni podatka |
+| Demokrati / DEM (Logar) | ni podatka |
 
 ---
 
@@ -42,13 +44,15 @@
 | SDS | 27,7 |
 | Gibanje Svoboda (GS) | 25,1 |
 | NSi + SLS + Fokus (skupaj) | ~24,6 |
-| SD | 7,1 |
+| SD | 5,6 |
 | Levica + Vesna (skupaj) | ~7,4 |
 | SNS | 1,6 |
 | Pirati | 1,3 |
 | Resni.ca | 1,9 |
-| Demokrati / DEM (Logar) | 0,5 |
+| Demokrati / DEM (Logar) | 5,5 |
 | Mi! | 0,0 |
+
+> **Popravki (12. 3. 2026):** DEM pri Mediani popravljen iz 0,5 na 5,5 %; SD pri Mediani posodobljen na 5,6 % (marčevska anketa).
 
 ---
 
@@ -156,7 +160,7 @@ Skupno sedežev: **88** | Potrebna večina: **46**
 
 **Na meji praga (negotovo):**
 - **Resni.ca** — ankete kažejo med ~2 % in ~4 %; prag je realistično dosegljiv, a ni zagotovljen
-- **Demokrati / DEM (Logar)** — izjemno nihajočo podporo: od 0,5 % (Mediana) do 8,9 % (RC IJEK); vstop v parlament je odvisen od tega, kateri agenciji zaupamo bolj
+- **Demokrati / DEM (Logar)** — izjemno nihajočo podporo: od 5,5 % (Mediana) do 8,9 % (RC IJEK); vstop v parlament je odvisen od tega, kateri agenciji zaupamo bolj
 
 **Skoraj zagotovo pod pragom:**
 - Mi socialisti! (Mi!)
