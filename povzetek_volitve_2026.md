@@ -75,7 +75,7 @@ Mi socialisti! se opredeljujejo kot »tretji, socialistični politični tabor« 
 
 ---
 
-### Desnosredinska parlamentarna opozicija
+### Desna parlamentarna opozicija
 
 ---
 

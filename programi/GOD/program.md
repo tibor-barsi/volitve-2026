@@ -1,3 +1,5 @@
+> **Opozorilo:** Ta program je iz leta 2017 (sprejet na ustanovnem kongresu stranke 25. 3. 2017). Novejši program za volitve 2026 ni bil najden. Vsebina morda ne odraža trenutnih stališč stranke.
+
 # Glas za otroke in družine – Volilni program 2026
 
 ## Preambula

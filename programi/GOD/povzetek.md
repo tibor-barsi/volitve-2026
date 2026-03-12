@@ -1,5 +1,7 @@
 # Glas za otroke in družine (GOD) – Povzetek volilnega programa 2026
 
+> **Opozorilo:** Povzetek temelji na programu iz leta 2017, ker novejši program za volitve 2026 ni na voljo. Stališča stranke so se morda od takrat spremenila.
+
 ## O stranki
 Stranka ZA Slovenijo – Glas za otroke in družine izhaja iz prepričanja, da je zdrava, stabilna in ljubeča družina temelj vsake uspešne družbe. Zavzema se za politike, ki varujejo in krepijo družino kot temeljno celico skupnosti, pri čemer v ospredje postavlja otroke, starše in skupnostne vrednote.
 
