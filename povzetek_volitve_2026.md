@@ -194,7 +194,7 @@ Piratska stranka se opredeljuje kot stranka, ki zagovarja odprto, transparentno 
 | Resni.ca | Državni investicijski kredit za mlade družine; odpis dolga za vsakega rojenega otroka |
 | GOD | Ugodna posojila, subvencije in davčne olajšave za mlade družine |
 | Pirati | Gradnja neprofitnih najemnih stanovanj; regulacija kratkoročnega najema (Airbnb) |
-| SDS | Ni podrobnejših ukrepov v povzetku |
+| SDS | Nasprotovanje obdavčitvi stanovanj in hiš; ustvarjanje pogojev za lastno streho in dom; odprava birokratskih ovir |
 | SNS | Stanovanje za prve nepremičnine Slovencev brez davka |
 | Mi socialisti! | Prenos presežnih stanovanj bogatih k ljudem; nova javna stanovanja in študentski domovi; regulacija najemnin |
 

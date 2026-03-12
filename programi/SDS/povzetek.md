@@ -17,6 +17,11 @@ Slovenska demokratska stranka se predstavlja kot stranka, ki zagovarja meritokra
 - Nasprotovanje centralizaciji in povečevanju ministrstev in javne uprave
 - Odprava neupravičenih privilegijev in zagotavljanje enakih izhodiščnih možnosti za vse
 
+### Stanovanja
+- Nasprotovanje obdavčitvi stanovanj in hiš za tiste, ki so varčevali in vlagali v lastne nepremičnine
+- Ustvarjanje pogojev, v katerih si lahko čim več posameznikov zgradi lastno streho in lasten dom
+- Odprava birokratskih ovir kot splošno načelo, ki zadeva tudi stanovanjsko gradnjo
+
 ### Demografija in družinska politika
 - Družina kot temeljna celica družbe in ključna naložba v prihodnost
 - Reševanje demografskega problema z dvigom blaginje in rodnosti
