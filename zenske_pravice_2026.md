@@ -198,6 +198,25 @@ Program v razdelku o javnem zdravstvu (točka 2) zahteva vrnitev ginekologije v 
 
 ---
 
+### DEM (Demokrati. Anžeta Logarja)
+
+**Ženske pravice in enakost spolov**
+Program DEM ne omenja posebej ženskih pravic ali enakosti spolov. Program ne vsebuje niti splošne formulacije o enakopravnosti spolov ali strukturni neenakosti. Demografska politika je usmerjena v dvig rodnosti in podporo mladim družinam (stanovanjske sheme, brezplačen vrtec za drugega in nadaljnjega otroka, »Družinski svet RS«), pri čemer so ženske omenjene le posredno — kot matere v kontekstu demografskih statistik (npr. »povprečna starost matere ob rojstvu prvega otroka«).
+
+**Reproduktivne pravice / splav**
+Splav ali reproduktivne pravice v programu niso omenjeni.
+
+**Nerojeni otroci**
+Tema v programu ni obravnavana.
+
+**Spolno nasilje / posilstvo**
+Spolno nasilje ali posilstvo v programu nista omenjena. Program obravnava nasilje le v kontekstu šolskega okolja (reševanje nasilja na šolah, zaščita žrtev nasilja med učenci) in napadov na uradne osebe (policiste).
+
+**Opombe**
+Program nosi naslov »Uspešna Slovenija 2034« in zastavlja cilje za dva mandata. Družinska politika je v programu umeščena v poglavje »Družina in socialna pravičnost«, kjer je poudarek na demografskih ukrepih, stanovanjski politiki za mlade družine in oskrbi starejših. Stranka v analizi Ženskega lobija Slovenije (ŽLS) ni bila posebej obravnavana.
+
+---
+
 ### Vesna
 
 **Ženske pravice in enakost spolov**
@@ -229,6 +248,7 @@ Vse navedbe za Vesno temeljijo izključno na analizi ŽLS, ne na neposredno dost
 | **SDS** | Ne | Ni omenjeno | Ni omenjeno | Ni omenjeno |
 | **SNS** | Ne | Omejitev na medicinske razloge | Posredno | Ni omenjeno (odrasli) |
 | **GOD** | Ne | Podpora alternativam splavu | Da — od spočetja | Ni omenjeno |
+| **DEM** | Ne | Ni omenjeno | Ni omenjeno | Ni omenjeno |
 | **Resni.ca** | Ne | Ni omenjeno | Ni omenjeno | Ni omenjeno |
 | **Mi socialisti!** | Ne (ŽLS ocena: strukturni problem)* | Ni omenjeno | Ni omenjeno | Ni omenjeno |
 | **Pirati** | Ni omenjeno | Ni omenjeno | Ni omenjeno | Ni omenjeno |
@@ -280,6 +300,7 @@ PEN klub je 4. marca 2026 organiziral srečanje s kandidatkami za parlamentarne 
 | SNS — strankarski program | 2025/2026 | Javno dostopen |
 | GOD — 12-točkovni programski povzetek | 2025/2026 | Javno dostopen |
 | Resni.ca — strankarski program | 2025/2026 | Javno dostopen |
+| DEM — strankarski program | 2026 | Javno dostopen |
 | GS — strankarski program | 2024 | Javno dostopen |
 | Mi socialisti! — strankarski program | 2026-03-11 | misocialisti.si |
 | Vesna — strankarski program | 2025/2026 | Ni bil dostopen (HTTP 403) |
